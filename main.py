@@ -16,7 +16,7 @@ pink = (255, 0, 255)
 WIDTH = 500
 HEIGHT = 700
 screen = pygame.display.set_mode([WIDTH, HEIGHT])
-pygame.display.set_caption('Lindsey\'s Wordle Game')
+pygame.display.set_caption('Wordle Game')
 turn = 0
 board = [[" ", " ", " ", " ", " "],
          [" ", " ", " ", " ", " "],
